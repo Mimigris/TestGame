@@ -139,3 +139,82 @@ msgstr ""
 "Aucune touche, attente\n"
 "Résultat dans la Var 1. Vu qu'aucune touche n'est\n"
 "acceptée, l'attente ne se terminera jamais."
+
+#. ID 11, Page 1, Line 4, Pos (15,9)
+msgid "Set Variable 5 to \\v[5]."
+msgstr "Variable 5 réglée sur \\v[5]."
+
+#. ID 11, Page 1, Line 5, Pos (15,9)
+msgid ""
+"Enable a parallel process that makes a Key\n"
+"Input Processing constantly run in the background,\n"
+"which is stored on variable 261, does not allow\n"
+"any key, and has wait."
+msgstr ""
+"Activation d'un processus parallèle faisant\n"
+"constamment tourner une Entrée des Touches en\n"
+"fond, stockée sur la Variable 261, n'autorisant\n"
+"aucune touche, et avec attente."
+
+#. ID 11, Page 1, Line 9, Pos (15,9)
+msgid "Wait of a few seconds to allow it to run\\..\\..\\..\\^"
+msgstr ""
+"Attente de quelques secondes pour lui permettre de\n"
+"tourner\\..\\..\\..\\^"
+
+#. ID 11, Page 1, Line 12, Pos (15,9)
+msgid ""
+"RPG_RT stores the variable that is checking inputs\n"
+"on 8 bits in the save file, meaning that the key\n"
+"input on variable 261 that is running will be\n"
+"interpreted as variable 5 after save load."
+msgstr ""
+"RPG_RT stocke la variable vérifiant les touches\n"
+"sur 8 bits dans la sauvegarde.\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Ainsi, la commande qui tournait sur la Variable\n"
+"261 sera interprétée comme tournant sur la\n"
+"Variable 5 après chargement de la sauvegarde."
+
+#. ID 11, Page 1, Line 16, Pos (15,9)
+msgid ""
+"Open the save menu. You should ideally save here,\n"
+"and load your save at the end of the test to\n"
+"compare the results."
+msgstr ""
+"Ouverture du menu de sauvegarde. Vous devriez\n"
+"idéalement sauvegarder ici, puis charger votre\n"
+"sauvegarde à la fin du test pour comparer les\n"
+"résultats."
+
+#. ID 11, Page 1, Line 21, Pos (15,9)
+msgid ""
+"Variable 5 is equal to 1 (left unedited).\n"
+"This means that you didn't loaded a save just\n"
+"before this message."
+msgstr ""
+"La Variable 5 est égale à 1 (pas de changement).\n"
+"Vous ne venez donc pas de charger une sauvegarde\n"
+"juste avant ce message."
+
+#. ID 11, Page 1, Line 28, Pos (15,9)
+msgid ""
+"Variable 5 is equal to 0 (was edited by the Key\n"
+"Input Processing command on Variable 261).\n"
+"The save file was just loaded."
+msgstr ""
+"La Variable 5 est égale à 0 (a été modifiée par la\n"
+"commande Entrée des Touches de la Variable 261).\n"
+"La sauvegarde vient tout juste d'être chargée."
+
+#. ID 11, Page 1, Line 34, Pos (15,9)
+msgid "Variable 5 is not 0 or 1 (that's unexpected)."
+msgstr "La Variable 5 n'est ni 0 ni 1 (c'est inattendu)."
+
+#. ID 11, Page 1, Line 36, Pos (15,9)
+msgid "Finished, resetting switches and variables."
+msgstr ""
+"Terminé, réinitialisation des Interrupteurs et des\n"
+"Variables."
