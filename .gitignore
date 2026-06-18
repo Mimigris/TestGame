@@ -1,10 +1,12 @@
+# ignore RPG Maker backup and EasyRPG crash files
+*.bak
+*.dmp
 # exclude Player files and Player-generated files (2000)
 TestGame-2000/easyrpg-player
 TestGame-2000/Player.exe
 TestGame-2000/easyrpg_log.txt
 TestGame-2000/screenshot_*
 TestGame-2000/auto_*.png
-TestGame-2000/*.dmp
 TestGame-2000/wildmidi.cfg
 TestGame-2000/wildmidi/*
 # exclude RPG Maker-only files (2000)
@@ -24,10 +26,11 @@ TestGame-2003/Player.exe
 TestGame-2003/easyrpg_log.txt
 TestGame-2003/screenshot_*
 TestGame-2003/auto_*.png
-TestGame-2003/*.dmp
 TestGame-2003/wildmidi.cfg
 TestGame-2003/wildmidi/*
 # exclude RPG Maker-only files (2003)
+TestGame-2003/dynloader.dll
+TestGame-2003/DynPlugins
 TestGame-2003/RPG_RT.exe
 TestGame-2003/*/thumbs.db
 TestGame-2003/ultimate_rt_eb.dll
@@ -43,7 +46,6 @@ TestGame-Maniac/Player.exe
 TestGame-Maniac/easyrpg_log.txt
 TestGame-Maniac/screenshot_*
 TestGame-Maniac/auto_*.png
-TestGame-Maniac/*.dmp
 TestGame-Maniac/wildmidi.cfg
 TestGame-Maniac/wildmidi/*
 # exclude RPG Maker-only files (Maniac)
