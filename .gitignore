@@ -31,6 +31,8 @@ TestGame-2003/wildmidi/*
 # exclude RPG Maker-only files (2003)
 TestGame-2003/dynloader.dll
 TestGame-2003/DynPlugins
+TestGame-2003/Harmony.dll
+TestGame-2003/harmony.log
 TestGame-2003/RPG_RT.exe
 TestGame-2003/*/thumbs.db
 TestGame-2003/ultimate_rt_eb.dll
