@@ -57,6 +57,15 @@ TestGame-Maniac/ultimate_rt_eb.dll
 TestGame-Maniac/accord.dll
 # exclude player save files (Maniac)
 TestGame-Maniac/Save*
+# exclude test suite generated files (Maniac)
+TestGame-Maniac/Screenshot/
+TestGame-Maniac/Text/text_export.txt
+TestGame-Maniac/Text/json_export.json
+TestGame-Maniac/colour.png
+TestGame-Maniac/m_colour.png
+TestGame-Maniac/screenshot.png
+TestGame-Maniac/pic_screenshot.png
+TestGame-Maniac/Picture/Screenshot_a.png
 # exclude EasyRPG Player format files (Maniac)
 TestGame-Maniac/Map????.emu
 TestGame-Maniac/RPG_RT.emt

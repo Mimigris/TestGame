@@ -4,11 +4,12 @@ Initial test suite by Enzo Barbaguelatta (Elsemi EN.I).
 Other new tests and contributions by Falc (Aitor García), Ghabry, Francisco de la Peña, ravotd, carstene1ns (Carsten Teibes), Mimigris (Carbonara).
 
 All of the bmp files present in the Picture folder of the TestGame-2000 and used in the BMP tests room (files starting by either 4bpp, 8bpp, bitdepth, colormasks, compression, fileinfoheader, filesize, height, infoheader, magicnumber, offbits, palette, pels, pixeldata, planes, reserved, width) are made by David Costanzo (License: Public Domain)
-
 URL: https://bmptestsuite.sourceforge.io/
 
 The logo graphics used in the TestGame-EasyRPG are those of the EasyRPG project, and are made by Jetrotal.
-The monochrome part of the ExFont is the ExFont replacement made by filosofiamanga used by the EasyRPG Player, while the colored ExFont is made by Jetrotal.
+The monochrome part of the ExFont is the ExFont replacement made by filosofiamanga used by the EasyRPG Player.
+The colored ExFont is a mix of graphics made by Jetrotal and modified graphics from the Pixel Twemoji 9x pack, licensed under CC-BY.
+URL: https://modrinth.com/resourcepack/pixel-twemoji-9x
 
 The following EasyRPG RTP materials are licensed under a Creative Commons Attribution 4.0 International license.
 
