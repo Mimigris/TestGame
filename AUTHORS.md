@@ -7,6 +7,9 @@ All of the bmp files present in the Picture folder of the TestGame-2000 and used
 
 URL: https://bmptestsuite.sourceforge.io/
 
+The logo graphics used in the TestGame-EasyRPG are those of the EasyRPG project, and are made by Jetrotal.
+The monochrome part of the ExFont is the ExFont replacement made by filosofiamanga used by the EasyRPG Player, while the colored ExFont is made by Jetrotal.
+
 The following EasyRPG RTP materials are licensed under a Creative Commons Attribution 4.0 International license.
 
 License URL: http://creativecommons.org/licenses/by/4.0/
@@ -20,7 +23,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 **📁 `BattleWeapon`**|  
 └⠀ `Weapon.png` | 2010 | russidan (Alephman) [CC-BY] | None
 **📁 `CharSet`**|  
-├⠀ `Actor1.png`/`Chara1.png` | 2010/2023 | Marina Navarro Travesset(base) [CC-BY] <br/>VictorSena(Edit) [CC-BY] | https://muerteatartajo.blogspot.com <br/>https://vashmaker.blogspot.com/p/works.html
+├⠀ `Actor1.png`/`Chara1.png`/`$Actor1H.png`/`$Actor1W.png`/`$Actor1WH.png` | 2010/2023 | Marina Navarro Travesset(base) [CC-BY] <br/>VictorSena(Edit) [CC-BY] | https://muerteatartajo.blogspot.com <br/>https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Actor2.png` | 2023 | VictorSena(1,2,3,4,6,7,8)[CC-BY]<br/>Garakuta+VictorSena(5)[CC-BY] | https://vashmaker.blogspot.com/p/works.html <br/>http://garakutamaker.blog.fc2.com/
 ├⠀ `Actor3.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html
 ├⠀ `Actor4.png` | 2023 | VictorSena [CC-BY] | https://vashmaker.blogspot.com/p/works.html

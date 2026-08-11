@@ -61,3 +61,19 @@ TestGame-Maniac/Save*
 TestGame-Maniac/Map????.emu
 TestGame-Maniac/RPG_RT.emt
 TestGame-Maniac/RPG_RT.edb
+# exclude Player files and Player-generated files (EasyRPG)
+TestGame-EasyRPG/easyrpg-player
+TestGame-EasyRPG/Player.exe
+TestGame-EasyRPG/easyrpg_log.txt
+TestGame-EasyRPG/screenshot_*
+TestGame-EasyRPG/auto_*.png
+TestGame-EasyRPG/wildmidi.cfg
+TestGame-EasyRPG/wildmidi/*
+# exclude RPG Maker-only files (EasyRPG)
+TestGame-EasyRPG/*/thumbs.db
+# exclude player save files (EasyRPG)
+TestGame-EasyRPG/Save*
+# exclude EasyRPG Player format files (EasyRPG)
+TestGame-EasyRPG/Map????.emu
+TestGame-EasyRPG/RPG_RT.emt
+TestGame-EasyRPG/RPG_RT.edb
