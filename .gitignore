@@ -42,6 +42,28 @@ TestGame-2003/Save*
 TestGame-2003/Map????.emu
 TestGame-2003/RPG_RT.emt
 TestGame-2003/RPG_RT.edb
+# exclude Player files and Player-generated files (PowerMode2003)
+TestGame-PowerMode2003/easyrpg-player
+TestGame-PowerMode2003/Player.exe
+TestGame-PowerMode2003/easyrpg_log.txt
+TestGame-PowerMode2003/screenshot_*
+TestGame-PowerMode2003/auto_*.png
+TestGame-PowerMode2003/wildmidi.cfg
+TestGame-PowerMode2003/wildmidi/*
+# exclude RPG Maker-only files (PowerMode2003)
+TestGame-PowerMode2003/bass.dll
+TestGame-PowerMode2003/bass_aac.dll
+TestGame-PowerMode2003/bass_fx.dll
+TestGame-PowerMode2003/fmodex.dll
+TestGame-PowerMode2003/hvm.dll
+TestGame-PowerMode2003/warp.dll
+TestGame-PowerMode2003/*/thumbs.db
+# exclude player save files (2003)
+TestGame-PowerMode2003/Save*
+# exclude EasyRPG Player format files (2003)
+TestGame-PowerMode2003/Map????.emu
+TestGame-PowerMode2003/RPG_RT.emt
+TestGame-PowerMode2003/RPG_RT.edb
 # exclude Player files and Player-generated files (Maniac)
 TestGame-Maniac/easyrpg-player
 TestGame-Maniac/Player.exe
