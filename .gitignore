@@ -57,6 +57,7 @@ TestGame-PowerMode2003/bass_fx.dll
 TestGame-PowerMode2003/fmodex.dll
 TestGame-PowerMode2003/hvm.dll
 TestGame-PowerMode2003/warp.dll
+TestGame-PowerMode2003/RPG_RT.exe
 TestGame-PowerMode2003/*/thumbs.db
 # exclude player save files (2003)
 TestGame-PowerMode2003/Save*
@@ -101,6 +102,7 @@ TestGame-EasyRPG/auto_*.png
 TestGame-EasyRPG/wildmidi.cfg
 TestGame-EasyRPG/wildmidi/*
 # exclude RPG Maker-only files (EasyRPG)
+TestGame-EasyRPG/RPG_RT.exe
 TestGame-EasyRPG/*/thumbs.db
 # exclude player save files (EasyRPG)
 TestGame-EasyRPG/Save*
