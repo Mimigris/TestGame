@@ -11,6 +11,9 @@ The monochrome part of the ExFont is the ExFont replacement made by filosofiaman
 The colored ExFont is a mix of graphics made by Jetrotal and modified graphics from the Pixel Twemoji 9x pack, licensed under CC-BY.
 URL: https://modrinth.com/resourcepack/pixel-twemoji-9x
 
+The font TinyUnicode used in the TestGame-Maniac is made by DuffsDevice, and licensed under a Creative Commons Attribution 4.0 International license.
+URL: https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=468
+
 The following EasyRPG RTP materials are licensed under a Creative Commons Attribution 4.0 International license.
 
 License URL: http://creativecommons.org/licenses/by/4.0/
@@ -110,6 +113,7 @@ Asset⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|Year|Authors and License|Auth
 ├⠀ `Ice9.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
 ├⠀ `Item1.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
 ├⠀ `Item2.wav` | 2024 | lumiscosity [CC-BY] | https://lumiscosity.neocities.org/
+├⠀ `Key.wav` | 2024 | nightskypatr0l [CC0] | https://stanleycommz.carrd.co/
 ├⠀ `Magic1.wav` | 2024 | Gadesx [CC0] | https://community.easyrpg.org/t/some-sfx-and-maybe-future-content/1079
 ├⠀ `Monster1.wav`/`Monster1_OGG.ogg` | 2024 | nightskypatr0l [CC0] | https://stanleycommz.carrd.co/
 ├⠀ `Poison.wav` | 2022 | JosephSeraph [CC0] | https://twitter.com/SeraphCircle
